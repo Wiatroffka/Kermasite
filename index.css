@@ -1,0 +1,27 @@
+body {
+    background: rgb(211, 239, 248);
+    margin: 0 20%;
+    }
+    
+    .top {
+    background: #cccccc;
+    border: 3px solid #acacac;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 20px 0px;
+    text-align: center;
+    }
+    
+    .menu, .footer {
+    background: #ffffff;
+    border: 3px solid #acacac;
+    padding: 10px;
+    font-size: 18px;
+    text-align: center;
+    }
+    
+    a {
+    color: #000000;
+    
+    font-weight: bold;
+    }
